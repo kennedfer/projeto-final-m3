@@ -1,2 +1,2 @@
-# projeto-final-m3
+# Lar Solidário - Projeto Final M3
 Repositório com os arquivos sql e imagens
